@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Two Pointers
 // Link     : https://leetcode.com/problems/rotate-list/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42552000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44300000 (beats 63%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
