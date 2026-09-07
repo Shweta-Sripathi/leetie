@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/first-missing-positive/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42284000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 70892000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
