@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String
 // Link     : https://leetcode.com/problems/length-of-last-word/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42700000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42908000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
