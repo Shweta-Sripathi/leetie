@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 14 Solved
+## Progress Summary: 15 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -12,6 +12,7 @@
 | generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | jump-game-ii | Jump Game II | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
+| length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
