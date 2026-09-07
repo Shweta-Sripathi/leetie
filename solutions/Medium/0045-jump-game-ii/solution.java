@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Greedy
 // Link     : https://leetcode.com/problems/jump-game-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42524000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 47264000 (beats 58%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
