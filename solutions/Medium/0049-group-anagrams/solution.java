@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/group-anagrams/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42604000 (beats 0%)
+// Runtime  : 6 ms (beats 99%)
+// Memory   : 49364000 (beats 92%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
