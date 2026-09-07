@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Sorting, Quicksort
 // Link     : https://leetcode.com/problems/merge-intervals/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42844000 (beats 0%)
+// Runtime  : 8 ms (beats 91%)
+// Memory   : 48988000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
