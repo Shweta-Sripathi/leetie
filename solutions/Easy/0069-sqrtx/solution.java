@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, Binary Search, Newton's Method
 // Link     : https://leetcode.com/problems/sqrtx/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41720000 (beats 0%)
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 42328000 (beats 90%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
