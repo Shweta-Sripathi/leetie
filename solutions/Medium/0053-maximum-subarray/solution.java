@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Dynamic Programming
 // Link     : https://leetcode.com/problems/maximum-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42168000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 77136000 (beats 66%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
