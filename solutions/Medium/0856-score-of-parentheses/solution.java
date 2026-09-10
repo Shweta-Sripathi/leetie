@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/score-of-parentheses/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42380000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42956000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
