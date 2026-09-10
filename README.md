@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 26 Solved
+## Progress Summary: 27 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| backspace-string-compare | Backspace String Compare | Easy | java | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.java) |
 | combination-sum | Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | count-unique-characters-of-all-substrings-of-a-given-string | Count Unique Characters of All Substrings of a Given String | Hard | java | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.java) |
