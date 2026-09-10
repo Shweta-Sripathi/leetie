@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Backtracking
 // Link     : https://leetcode.com/problems/split-array-into-fibonacci-sequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42532000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 42992000 (beats 81%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
