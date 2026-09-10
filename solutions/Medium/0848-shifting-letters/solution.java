@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Prefix Sum
 // Link     : https://leetcode.com/problems/shifting-letters/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42768000 (beats 0%)
+// Runtime  : 7 ms (beats 60%)
+// Memory   : 71828000 (beats 55%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
