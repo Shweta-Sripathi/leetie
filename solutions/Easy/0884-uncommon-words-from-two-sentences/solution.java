@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Counting
 // Link     : https://leetcode.com/problems/uncommon-words-from-two-sentences/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42964000 (beats 0%)
+// Runtime  : 4 ms (beats 30%)
+// Memory   : 43760000 (beats 11%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
