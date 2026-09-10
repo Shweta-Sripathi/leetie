@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Two Pointers, String, Stack, Simulation
 // Link     : https://leetcode.com/problems/backspace-string-compare/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42884000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43036000 (beats 53%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
