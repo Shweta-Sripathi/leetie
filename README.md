@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 24 Solved
+## Progress Summary: 25 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -25,6 +25,7 @@
 | push-dominoes | Push Dominoes | Medium | java | [Problem](https://leetcode.com/problems/push-dominoes/) | [Solution](./solutions/Medium/0838-push-dominoes/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | search-in-rotated-sorted-array | Search in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
+| similar-string-groups | Similar String Groups | Hard | java | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.java) |
 | sqrtx | Sqrt(x) | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
 | swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | java | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.java) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
