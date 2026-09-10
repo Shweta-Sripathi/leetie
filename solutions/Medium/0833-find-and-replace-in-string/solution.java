@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/find-and-replace-in-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42836000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 41776000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
