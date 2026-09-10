@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Two Pointers, String, Dynamic Programming
 // Link     : https://leetcode.com/problems/push-dominoes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42756000 (beats 0%)
+// Runtime  : 28 ms (beats 26%)
+// Memory   : 48216000 (beats 16%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
