@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String
 // Link     : https://leetcode.com/problems/positions-of-large-groups/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43000000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 45764000 (beats 53%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
