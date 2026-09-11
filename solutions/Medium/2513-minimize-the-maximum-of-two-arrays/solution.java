@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Binary Search, Number Theory, Least Common Multiple, Inclusion-Exclusion Principle
 // Link     : https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41996000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42084000 (beats 66%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
