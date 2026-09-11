@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 46 Solved
+## Progress Summary: 47 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -25,6 +25,7 @@
 | length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | masking-personal-information | Masking Personal Information | Medium | java | [Problem](https://leetcode.com/problems/masking-personal-information/) | [Solution](./solutions/Medium/0831-masking-personal-information/solution.java) |
+| maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
