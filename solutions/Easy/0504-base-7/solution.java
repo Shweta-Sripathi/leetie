@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, String
 // Link     : https://leetcode.com/problems/base-7/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42748000 (beats 0%)
+// Runtime  : 1 ms (beats 74%)
+// Memory   : 42892000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
