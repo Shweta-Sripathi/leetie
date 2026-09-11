@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, String, Sorting
 // Link     : https://leetcode.com/problems/minimum-time-difference/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42532000 (beats 0%)
+// Runtime  : 2 ms (beats 99%)
+// Memory   : 46124000 (beats 98%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
