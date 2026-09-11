@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math
 // Link     : https://leetcode.com/problems/construct-the-rectangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42520000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42416000 (beats 48%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
