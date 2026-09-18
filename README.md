@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 68 Solved
+## Progress Summary: 69 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -44,6 +44,7 @@
 | permutations-ii | Permutations II | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
 | positions-of-large-groups | Positions of Large Groups | Easy | java | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.java) |
 | predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
+| prefix-and-suffix-search | Prefix and Suffix Search | Hard | java | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.java) |
 | push-dominoes | Push Dominoes | Medium | java | [Problem](https://leetcode.com/problems/push-dominoes/) | [Solution](./solutions/Medium/0838-push-dominoes/solution.java) |
 | random-flip-matrix | Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
 | random-pick-with-weight | Random Pick with Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
