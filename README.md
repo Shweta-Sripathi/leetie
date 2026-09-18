@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 64 Solved
+## Progress Summary: 65 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,6 +62,7 @@
 | strange-printer | Strange Printer | Hard | java | [Problem](https://leetcode.com/problems/strange-printer/) | [Solution](./solutions/Hard/0664-strange-printer/solution.java) |
 | sum-of-square-numbers | Sum of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
 | swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | java | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.java) |
+| to-lower-case | To Lower Case | Easy | java | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.java) |
 | top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | uncommon-words-from-two-sentences | Uncommon Words from Two Sentences | Easy | java | [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](./solutions/Easy/0884-uncommon-words-from-two-sentences/solution.java) |
