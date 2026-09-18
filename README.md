@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 70 Solved
+## Progress Summary: 71 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -61,6 +61,7 @@
 | similar-string-groups | Similar String Groups | Hard | java | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.java) |
 | smallest-value-after-replacing-with-sum-of-prime-factors | Smallest Value After Replacing With Sum of Prime Factors | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Solution](./solutions/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/solution.java) |
 | solve-the-equation | Solve the Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
+| special-binary-string | Special Binary String | Hard | java | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.java) |
 | split-array-into-fibonacci-sequence | Split Array into Fibonacci Sequence | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.java) |
 | sqrtx | Sqrt(x) | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
 | stickers-to-spell-word | Stickers to Spell Word | Hard | java | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.java) |
