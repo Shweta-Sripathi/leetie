@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Depth-First Search, Design, Trie
 // Link     : https://leetcode.com/problems/implement-magic-dictionary/
-// Runtime  : 33 ms (beats 44%)
-// Memory   : 47848000 (beats 47%)
+// Runtime  : 3 ms (beats 0%)
+// Memory   : 42792000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
@@ -22,8 +22,7 @@ class MagicDictionary {
     public MagicDictionary() {
         root = new TrieNode();
     }
-
-    public void buildDict(String[] dictionary) {
+   public void buildDict(String[] dictionary) {
         for (String word : dictionary) {
             TrieNode curr = root;
             for (char c : word.toCharArray()) {
