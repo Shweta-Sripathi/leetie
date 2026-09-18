@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Design, Trie
 // Link     : https://leetcode.com/problems/map-sum-pairs/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42936000 (beats 0%)
+// Runtime  : 9 ms (beats 62%)
+// Memory   : 43972000 (beats 38%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
