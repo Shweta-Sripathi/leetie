@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String, Simulation
 // Link     : https://leetcode.com/problems/robot-return-to-origin/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42520000 (beats 0%)
+// Runtime  : 4 ms (beats 99%)
+// Memory   : 46060000 (beats 39%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
