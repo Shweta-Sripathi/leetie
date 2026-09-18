@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | jump-game-ii | Jump Game II | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
+| map-sum-pairs | Map Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.java) |
 | masking-personal-information | Masking Personal Information | Medium | java | [Problem](https://leetcode.com/problems/masking-personal-information/) | [Solution](./solutions/Medium/0831-masking-personal-information/solution.java) |
 | maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
