@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm
 // Link     : https://leetcode.com/problems/repeated-string-match/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42764000 (beats 0%)
+// Runtime  : 266 ms (beats 34%)
+// Memory   : 43384000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
