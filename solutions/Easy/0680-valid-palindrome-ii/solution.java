@@ -3,38 +3,38 @@
 // Difficulty: Easy
 // Tags     : Two Pointers, String, Greedy
 // Link     : https://leetcode.com/problems/valid-palindrome-ii/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 42148000 (beats 99%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42200000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 class Solution {
-    public boolean checkValidString(String s) {
-        int minOpen = 0; // Minimum possible open parentheses count
-        int maxOpen = 0; // Maximum possible open parentheses count
+    public boolean validPalindrome(String s) {
+        int left = 0;
+        int right = s.length() - 1;
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                minOpen++;
-                maxOpen++;
-            } else if (c == ')') {
-                minOpen--;
-                maxOpen--;
-            } else { // c == '*'
-                minOpen--; // Treat '*' as ')'
-                maxOpen++; // Treat '*' as '('
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                // Try skipping either the left character or the right character
+                return isPalindrome(s, left + 1, right) || isPalindrome(s, left, right - 1);
             }
-
-            // If maxOpen is negative, we have more ')' than can ever be matched
-            if (maxOpen < 0) return false;
-
-            // minOpen cannot be negative (we can't have negative open parentheses)
-            minOpen = Math.max(minOpen, 0);
+            left++;
+            right--;
         }
 
-        // Valid if minOpen can reach 0 at the end
-        return minOpen == 0;
+        return true;
+    }
+
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
     }
 }
