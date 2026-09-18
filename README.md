@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 69 Solved
+## Progress Summary: 70 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -46,6 +46,7 @@
 | predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | prefix-and-suffix-search | Prefix and Suffix Search | Hard | java | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.java) |
 | push-dominoes | Push Dominoes | Medium | java | [Problem](https://leetcode.com/problems/push-dominoes/) | [Solution](./solutions/Medium/0838-push-dominoes/solution.java) |
+| pyramid-transition-matrix | Pyramid Transition Matrix | Medium | java | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.java) |
 | random-flip-matrix | Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
 | random-pick-with-weight | Random Pick with Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
