@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Sorting, Matrix
 // Link     : https://leetcode.com/problems/largest-submatrix-with-rearrangements/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42680000 (beats 0%)
+// Runtime  : 13 ms (beats 76%)
+// Memory   : 114704000 (beats 20%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
