@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Sorting, Counting
 // Link     : https://leetcode.com/problems/determine-if-two-strings-are-close/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42176000 (beats 0%)
+// Runtime  : 12 ms (beats 57%)
+// Memory   : 47876000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
