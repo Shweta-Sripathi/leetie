@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 39 ms (beats 38%)
+// Memory   : 89604000 (beats 29%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
