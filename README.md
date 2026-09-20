@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 72 Solved
+## Progress Summary: 73 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -33,6 +33,7 @@
 | masking-personal-information | Masking Personal Information | Medium | java | [Problem](https://leetcode.com/problems/masking-personal-information/) | [Solution](./solutions/Medium/0831-masking-personal-information/solution.java) |
 | maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
+| maximum-sum-obtained-of-any-permutation | Maximum Sum Obtained of Any Permutation | Medium | java | [Problem](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Solution](./solutions/Medium/1589-maximum-sum-obtained-of-any-permutation/solution.java) |
 | merge-intervals | Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | minimize-the-maximum-of-two-arrays | Minimize the Maximum of Two Arrays | Medium | java | [Problem](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Solution](./solutions/Medium/2513-minimize-the-maximum-of-two-arrays/solution.java) |
 | minimum-ascii-delete-sum-for-two-strings | Minimum ASCII Delete Sum for Two Strings | Medium | java | [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Solution](./solutions/Medium/0712-minimum-ascii-delete-sum-for-two-strings/solution.java) |
