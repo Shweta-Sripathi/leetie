@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Sorting, Prefix Sum
 // Link     : https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42360000 (beats 0%)
+// Runtime  : 36 ms (beats 16%)
+// Memory   : 113288000 (beats 20%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
