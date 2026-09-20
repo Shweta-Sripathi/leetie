@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Greedy, Sorting
 // Link     : https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42348000 (beats 0%)
+// Runtime  : 8 ms (beats 75%)
+// Memory   : 47908000 (beats 16%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
