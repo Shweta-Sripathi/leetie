@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 83 Solved
+## Progress Summary: 84 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -66,6 +66,7 @@
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | score-of-parentheses | Score of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
 | search-in-rotated-sorted-array | Search in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
+| sell-diminishing-valued-colored-balls | Sell Diminishing-Valued Colored Balls | Medium | java | [Problem](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [Solution](./solutions/Medium/1648-sell-diminishing-valued-colored-balls/solution.java) |
 | shifting-letters | Shifting Letters | Medium | java | [Problem](https://leetcode.com/problems/shifting-letters/) | [Solution](./solutions/Medium/0848-shifting-letters/solution.java) |
 | similar-string-groups | Similar String Groups | Hard | java | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.java) |
 | smallest-value-after-replacing-with-sum-of-prime-factors | Smallest Value After Replacing With Sum of Prime Factors | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Solution](./solutions/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/solution.java) |
