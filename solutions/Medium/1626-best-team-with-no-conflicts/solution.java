@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Sorting, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/best-team-with-no-conflicts/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42376000 (beats 0%)
+// Runtime  : 32 ms (beats 86%)
+// Memory   : 46912000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
