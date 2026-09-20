@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Union-Find, Graph Theory, Topological Sort, Sorting, Matrix
 // Link     : https://leetcode.com/problems/rank-transform-of-a-matrix/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 43004000 (beats 0%)
+// Runtime  : 87 ms (beats 86%)
+// Memory   : 130024000 (beats 9%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
