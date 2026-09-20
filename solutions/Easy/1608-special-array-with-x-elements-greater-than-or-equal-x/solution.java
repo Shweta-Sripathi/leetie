@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42532000 (beats 0%)
+// Runtime  : 4 ms (beats 33%)
+// Memory   : 43288000 (beats 42%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
