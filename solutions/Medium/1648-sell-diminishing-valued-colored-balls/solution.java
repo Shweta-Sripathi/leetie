@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42692000 (beats 0%)
+// Runtime  : 28 ms (beats 71%)
+// Memory   : 66468000 (beats 37%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
