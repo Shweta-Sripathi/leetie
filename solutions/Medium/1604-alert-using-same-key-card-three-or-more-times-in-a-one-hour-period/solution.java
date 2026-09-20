@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43016000 (beats 0%)
+// Runtime  : 51 ms (beats 91%)
+// Memory   : 79280000 (beats 47%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
