@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 84 Solved
+## Progress Summary: 85 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -20,6 +20,7 @@
 | continuous-subarray-sum | Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | count-unique-characters-of-all-substrings-of-a-given-string | Count Unique Characters of All Substrings of a Given String | Hard | java | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.java) |
+| determine-if-two-strings-are-close | Determine if Two Strings Are Close | Medium | java | [Problem](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](./solutions/Medium/1657-determine-if-two-strings-are-close/solution.java) |
 | dota2-senate | Dota2 Senate | Medium | java | [Problem](https://leetcode.com/problems/dota2-senate/) | [Solution](./solutions/Medium/0649-dota2-senate/solution.java) |
 | find-and-replace-in-string | Find And Replace in String | Medium | java | [Problem](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./solutions/Medium/0833-find-and-replace-in-string/solution.java) |
 | first-missing-positive | First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
