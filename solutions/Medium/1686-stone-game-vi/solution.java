@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Greedy, Minimax, Sorting, Heap (Priority Queue), Game Theory, Zero-Sum Game
 // Link     : https://leetcode.com/problems/stone-game-vi/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42428000 (beats 0%)
+// Runtime  : 82 ms (beats 50%)
+// Memory   : 102656000 (beats 15%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
