@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sorting
 // Link     : https://leetcode.com/problems/sort-array-by-increasing-frequency/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43032000 (beats 0%)
+// Runtime  : 9 ms (beats 40%)
+// Memory   : 45924000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
