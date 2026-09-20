@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Two Pointers, Binary Search, Graph Theory, Sorting, Counting
 // Link     : https://leetcode.com/problems/count-pairs-of-nodes/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42880000 (beats 0%)
+// Runtime  : 222 ms (beats 26%)
+// Memory   : 188656000 (beats 40%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
