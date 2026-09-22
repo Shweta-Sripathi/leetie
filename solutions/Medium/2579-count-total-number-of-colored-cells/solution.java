@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math
 // Link     : https://leetcode.com/problems/count-total-number-of-colored-cells/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41980000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42200000 (beats 44%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
