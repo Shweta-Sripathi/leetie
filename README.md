@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 91 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 2-keys-keyboard | 2 Keys Keyboard | Medium | java | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.java) |
 | alert-using-same-key-card-three-or-more-times-in-a-one-hour-period | Alert Using Same Key-Card Three or More Times in a One Hour Period | Medium | java | [Problem](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Solution](./solutions/Medium/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/solution.java) |
+| alternating-digit-sum | Alternating Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/alternating-digit-sum/) | [Solution](./solutions/Easy/2544-alternating-digit-sum/solution.java) |
 | arithmetic-subarrays | Arithmetic Subarrays | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-subarrays/) | [Solution](./solutions/Medium/1630-arithmetic-subarrays/solution.java) |
 | backspace-string-compare | Backspace String Compare | Easy | java | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.java) |
 | base-7 | Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
