@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 97 Solved
+## Progress Summary: 98 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -87,6 +87,7 @@
 | special-array-with-x-elements-greater-than-or-equal-x | Special Array With X Elements Greater Than or Equal X | Easy | java | [Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](./solutions/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/solution.java) |
 | special-binary-string | Special Binary String | Hard | java | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.java) |
 | split-array-into-fibonacci-sequence | Split Array into Fibonacci Sequence | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.java) |
+| split-with-minimum-sum | Split With Minimum Sum | Easy | java | [Problem](https://leetcode.com/problems/split-with-minimum-sum/) | [Solution](./solutions/Easy/2578-split-with-minimum-sum/solution.java) |
 | sqrtx | Sqrt(x) | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
 | stickers-to-spell-word | Stickers to Spell Word | Hard | java | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.java) |
 | stone-game-vi | Stone Game VI | Medium | java | [Problem](https://leetcode.com/problems/stone-game-vi/) | [Solution](./solutions/Medium/1686-stone-game-vi/solution.java) |
