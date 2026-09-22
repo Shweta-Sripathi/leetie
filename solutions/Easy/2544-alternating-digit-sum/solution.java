@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math
 // Link     : https://leetcode.com/problems/alternating-digit-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42028000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42332000 (beats 13%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
