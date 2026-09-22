@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, String
 // Link     : https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42688000 (beats 0%)
+// Runtime  : 6 ms (beats 100%)
+// Memory   : 81384000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
