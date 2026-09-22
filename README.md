@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 96 Solved
+## Progress Summary: 97 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | determine-if-two-strings-are-close | Determine if Two Strings Are Close | Medium | java | [Problem](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](./solutions/Medium/1657-determine-if-two-strings-are-close/solution.java) |
 | dota2-senate | Dota2 Senate | Medium | java | [Problem](https://leetcode.com/problems/dota2-senate/) | [Solution](./solutions/Medium/0649-dota2-senate/solution.java) |
 | find-and-replace-in-string | Find And Replace in String | Medium | java | [Problem](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./solutions/Medium/0833-find-and-replace-in-string/solution.java) |
+| find-the-divisibility-array-of-a-string | Find the Divisibility Array of a String | Medium | java | [Problem](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Solution](./solutions/Medium/2575-find-the-divisibility-array-of-a-string/solution.java) |
 | first-missing-positive | First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
 | generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
