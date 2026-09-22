@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming, Bit Manipulation, Number Theory, Bitmask
 // Link     : https://leetcode.com/problems/count-the-number-of-square-free-subsets/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42512000 (beats 0%)
+// Runtime  : 3 ms (beats 87%)
+// Memory   : 43740000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
