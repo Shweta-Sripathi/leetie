@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 95 Solved
+## Progress Summary: 96 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,6 +24,7 @@
 | count-collisions-of-monkeys-on-a-polygon | Count Collisions of Monkeys on a Polygon | Medium | java | [Problem](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Solution](./solutions/Medium/2550-count-collisions-of-monkeys-on-a-polygon/solution.java) |
 | count-distinct-numbers-on-board | Count Distinct Numbers on Board | Easy | java | [Problem](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Solution](./solutions/Easy/2549-count-distinct-numbers-on-board/solution.java) |
 | count-pairs-of-nodes | Count Pairs Of Nodes | Hard | java | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.java) |
+| count-the-number-of-square-free-subsets | Count the Number of Square-Free Subsets | Medium | java | [Problem](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Solution](./solutions/Medium/2572-count-the-number-of-square-free-subsets/solution.java) |
 | count-unique-characters-of-all-substrings-of-a-given-string | Count Unique Characters of All Substrings of a Given String | Hard | java | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.java) |
 | determine-if-two-strings-are-close | Determine if Two Strings Are Close | Medium | java | [Problem](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](./solutions/Medium/1657-determine-if-two-strings-are-close/solution.java) |
 | dota2-senate | Dota2 Senate | Medium | java | [Problem](https://leetcode.com/problems/dota2-senate/) | [Solution](./solutions/Medium/0649-dota2-senate/solution.java) |
