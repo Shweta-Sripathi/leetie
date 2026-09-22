@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Recursion
 // Link     : https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42232000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42360000 (beats 8%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
