@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, Greedy, Sorting
 // Link     : https://leetcode.com/problems/split-with-minimum-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42024000 (beats 0%)
+// Runtime  : 1 ms (beats 94%)
+// Memory   : 42296000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
