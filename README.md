@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 94 Solved
+## Progress Summary: 95 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,6 +42,7 @@
 | map-sum-pairs | Map Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.java) |
 | masking-personal-information | Masking Personal Information | Medium | java | [Problem](https://leetcode.com/problems/masking-personal-information/) | [Solution](./solutions/Medium/0831-masking-personal-information/solution.java) |
 | max-number-of-k-sum-pairs | Max Number of K-Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution](./solutions/Medium/1679-max-number-of-k-sum-pairs/solution.java) |
+| maximum-difference-by-remapping-a-digit | Maximum Difference by Remapping a Digit | Easy | java | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Solution](./solutions/Easy/2566-maximum-difference-by-remapping-a-digit/solution.java) |
 | maximum-number-of-visible-points | Maximum Number of Visible Points | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Solution](./solutions/Hard/1610-maximum-number-of-visible-points/solution.java) |
 | maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
