@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Sorting, Counting
 // Link     : https://leetcode.com/problems/rank-teams-by-votes/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 6 ms (beats 81%)
+// Memory   : 45012000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
