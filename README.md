@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 100 Solved
+## Progress Summary: 101 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | base-7 | Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
 | best-team-with-no-conflicts | Best Team With No Conflicts | Medium | java | [Problem](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Solution](./solutions/Medium/1626-best-team-with-no-conflicts/solution.java) |
 | buddy-strings | Buddy Strings | Easy | java | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.java) |
+| check-if-n-and-its-double-exist | Check If N and Its Double Exist | Easy | java | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](./solutions/Easy/1346-check-if-n-and-its-double-exist/solution.java) |
 | check-if-point-is-reachable | Check if Point Is Reachable | Hard | java | [Problem](https://leetcode.com/problems/check-if-point-is-reachable/) | [Solution](./solutions/Hard/2543-check-if-point-is-reachable/solution.java) |
 | check-if-string-is-transformable-with-substring-sort-operations | Check If String Is Transformable With Substring Sort Operations | Hard | java | [Problem](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Solution](./solutions/Hard/1585-check-if-string-is-transformable-with-substring-sort-operations/solution.java) |
 | combination-sum | Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
