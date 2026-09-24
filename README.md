@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 101 Solved
+## Progress Summary: 102 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | minimize-the-maximum-of-two-arrays | Minimize the Maximum of Two Arrays | Medium | java | [Problem](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Solution](./solutions/Medium/2513-minimize-the-maximum-of-two-arrays/solution.java) |
 | minimum-ascii-delete-sum-for-two-strings | Minimum ASCII Delete Sum for Two Strings | Medium | java | [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Solution](./solutions/Medium/0712-minimum-ascii-delete-sum-for-two-strings/solution.java) |
 | minimum-deletions-to-make-character-frequencies-unique | Minimum Deletions to Make Character Frequencies Unique | Medium | java | [Problem](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Solution](./solutions/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/solution.java) |
+| minimum-number-of-steps-to-make-two-strings-anagram | Minimum Number of Steps to Make Two Strings Anagram | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [Solution](./solutions/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
