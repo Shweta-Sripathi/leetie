@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Design
 // Link     : https://leetcode.com/problems/apply-discount-every-n-orders/
-// Runtime  : 17 ms (beats 0%)
-// Memory   : 45604000 (beats 0%)
+// Runtime  : 120 ms (beats 76%)
+// Memory   : 86012000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
