@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sorting, Counting Sort
 // Link     : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42764000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 45804000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
