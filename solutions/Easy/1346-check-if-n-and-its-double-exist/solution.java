@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/check-if-n-and-its-double-exist/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42844000 (beats 0%)
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 44524000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
