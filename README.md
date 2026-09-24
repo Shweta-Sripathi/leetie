@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 99 Solved
+## Progress Summary: 100 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -38,6 +38,7 @@
 | group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | implement-magic-dictionary | Implement Magic Dictionary | Medium | java | [Problem](https://leetcode.com/problems/implement-magic-dictionary/) | [Solution](./solutions/Medium/0676-implement-magic-dictionary/solution.java) |
 | jump-game-ii | Jump Game II | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
+| jump-game-iv | Jump Game IV | Hard | java | [Problem](https://leetcode.com/problems/jump-game-iv/) | [Solution](./solutions/Hard/1345-jump-game-iv/solution.java) |
 | largest-submatrix-with-rearrangements | Largest Submatrix With Rearrangements | Medium | java | [Problem](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Solution](./solutions/Medium/1727-largest-submatrix-with-rearrangements/solution.java) |
 | length-of-last-word | Length of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
