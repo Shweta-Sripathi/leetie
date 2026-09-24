@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Counting
 // Link     : https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42796000 (beats 0%)
+// Runtime  : 9 ms (beats 47%)
+// Memory   : 47652000 (beats 46%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
