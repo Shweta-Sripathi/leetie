@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/rising-temperature/
--- Runtime  : 80 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 475 ms (beats 78%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 -- Synced by: leetie
