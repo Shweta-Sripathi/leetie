@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 // Link     : https://leetcode.com/problems/number-of-islands/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42820000 (beats 0%)
+// Runtime  : 2 ms (beats 100%)
+// Memory   : 52188000 (beats 67%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
