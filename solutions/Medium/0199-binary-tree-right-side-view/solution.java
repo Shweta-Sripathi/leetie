@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/binary-tree-right-side-view/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42772000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43292000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
