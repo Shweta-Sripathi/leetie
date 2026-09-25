@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Linked List, Recursion
 // Link     : https://leetcode.com/problems/remove-linked-list-elements/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42476000 (beats 0%)
+// Runtime  : 1 ms (beats 96%)
+// Memory   : 47172000 (beats 79%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
