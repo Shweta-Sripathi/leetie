@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Binary Search, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42328000 (beats 0%)
+// Runtime  : 4 ms (beats 98%)
+// Memory   : 101824000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
