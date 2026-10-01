@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum
 // Link     : https://leetcode.com/problems/frequency-of-the-most-frequent-element/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42764000 (beats 0%)
+// Runtime  : 33 ms (beats 91%)
+// Memory   : 94748000 (beats 64%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
