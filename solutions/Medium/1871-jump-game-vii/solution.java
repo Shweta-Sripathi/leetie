@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/jump-game-vii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42724000 (beats 0%)
+// Runtime  : 8 ms (beats 92%)
+// Memory   : 47640000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
