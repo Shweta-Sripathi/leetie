@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Greedy, Sorting, Timsort
 // Link     : https://leetcode.com/problems/boats-to-save-people/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43164000 (beats 0%)
+// Runtime  : 20 ms (beats 81%)
+// Memory   : 56736000 (beats 10%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
