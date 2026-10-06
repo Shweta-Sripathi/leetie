@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Two Pointers, Sorting
 // Link     : https://leetcode.com/problems/sort-array-by-parity-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42756000 (beats 0%)
+// Runtime  : 3 ms (beats 60%)
+// Memory   : 48420000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
