@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42844000 (beats 0%)
+// Runtime  : 3 ms (beats 99%)
+// Memory   : 46408000 (beats 34%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
