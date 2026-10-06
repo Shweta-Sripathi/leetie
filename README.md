@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 136 Solved
+## Progress Summary: 137 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,10 +10,10 @@
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
 | bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | defuse-the-bomb | Defuse the Bomb | Easy | java | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.java) |
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
+| di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
@@ -65,6 +65,7 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
 | perfect-number | 507. Perfect Number | Easy | java | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
