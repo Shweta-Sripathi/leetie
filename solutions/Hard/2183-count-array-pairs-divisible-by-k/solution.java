@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Counting, Number Theory, Euclidean Algorithm, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/count-array-pairs-divisible-by-k/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42772000 (beats 0%)
+// Runtime  : 37 ms (beats 89%)
+// Memory   : 75812000 (beats 87%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
