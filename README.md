@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 142 Solved
+## Progress Summary: 143 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,12 +11,14 @@
 | bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
 | count-negative-numbers-in-a-sorted-matrix | Count Negative Numbers in a Sorted Matrix | Easy | java | [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./solutions/Easy/1351-count-negative-numbers-in-a-sorted-matrix/solution.java) |
+| count-operations-to-obtain-zero | Count Operations to Obtain Zero | Easy | java | [Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Solution](./solutions/Easy/2169-count-operations-to-obtain-zero/solution.java) |
 | count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
 | defuse-the-bomb | Defuse the Bomb | Easy | java | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.java) |
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
+| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
@@ -48,7 +50,6 @@
 | search-in-rotated-sorted-array | 33. Search In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
 | count-and-say | 38. Count And Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | combination-sum | 39. Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
-| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | jump-game-ii | 45. Jump Game Ii | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
