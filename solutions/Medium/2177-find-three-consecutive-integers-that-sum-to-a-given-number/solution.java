@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Simulation
 // Link     : https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42272000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43076000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
