@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Backtracking, Greedy
 // Link     : https://leetcode.com/problems/maximum-split-of-positive-even-integers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42340000 (beats 0%)
+// Runtime  : 12 ms (beats 31%)
+// Memory   : 111644000 (beats 73%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
