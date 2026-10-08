@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 140 Solved
+## Progress Summary: 141 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,6 +30,7 @@
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
+| minimum-cost-to-set-cooking-time | Minimum Cost to Set Cooking Time | Medium | java | [Problem](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [Solution](./solutions/Medium/2162-minimum-cost-to-set-cooking-time/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | minimum-sum-of-four-digit-number-after-splitting-digits | Minimum Sum of Four Digit Number After Splitting Digits | Easy | java | [Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Solution](./solutions/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) |
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
