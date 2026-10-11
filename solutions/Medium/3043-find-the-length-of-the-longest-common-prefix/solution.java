@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Trie
 // Link     : https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42140000 (beats 0%)
+// Runtime  : 93 ms (beats 28%)
+// Memory   : 90512000 (beats 38%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
