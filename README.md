@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 156 Solved
+## Progress Summary: 157 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | search-in-rotated-sorted-array | 33. Search In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
 | count-and-say | 38. Count And Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | combination-sum | 39. Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
+| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | jump-game-ii | 45. Jump Game Ii | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
@@ -88,13 +89,18 @@
 | bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
 | check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
+| check-if-n-and-its-double-exist | 1346. Check If N And Its Double Exist | Easy | java | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](./solutions/Easy/1346-check-if-n-and-its-double-exist/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
+| count-distinct-numbers-on-board | 2549. Count Distinct Numbers On Board | Easy | java | [Problem](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Solution](./solutions/Easy/2549-count-distinct-numbers-on-board/solution.java) |
 | count-collisions-of-monkeys-on-a-polygon | 2550. Count Collisions Of Monkeys On A Polygon | Medium | java | [Problem](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Solution](./solutions/Medium/2550-count-collisions-of-monkeys-on-a-polygon/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
 | count-negative-numbers-in-a-sorted-matrix | Count Negative Numbers in a Sorted Matrix | Easy | java | [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./solutions/Easy/1351-count-negative-numbers-in-a-sorted-matrix/solution.java) |
 | count-operations-to-obtain-zero | Count Operations to Obtain Zero | Easy | java | [Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Solution](./solutions/Easy/2169-count-operations-to-obtain-zero/solution.java) |
+| count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
+| count-the-number-of-special-characters-i | Count the Number of Special Characters I | Easy | java | [Problem](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Solution](./solutions/Easy/3120-count-the-number-of-special-characters-i/solution.java) |
 | count-the-number-of-square-free-subsets | 2572. Count The Number Of Square Free Subsets | Medium | java | [Problem](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Solution](./solutions/Medium/2572-count-the-number-of-square-free-subsets/solution.java) |
 | defuse-the-bomb | Defuse the Bomb | Easy | java | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.java) |
+| delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
@@ -104,19 +110,14 @@
 | count-total-number-of-colored-cells | 2579. Count Total Number Of Colored Cells | Medium | java | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Solution](./solutions/Medium/2579-count-total-number-of-colored-cells/solution.java) |
 | find-the-length-of-the-longest-common-prefix | Find the Length of the Longest Common Prefix | Medium | java | [Problem](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Solution](./solutions/Medium/3043-find-the-length-of-the-longest-common-prefix/solution.java) |
 | find-three-consecutive-integers-that-sum-to-a-given-number | Find Three Consecutive Integers That Sum to a Given Number | Medium | java | [Problem](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Solution](./solutions/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/solution.java) |
-| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
-| count-primes | Count Primes | Medium | java | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](./solutions/Medium/0204-count-primes/solution.java) |
-| delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
 | goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
-| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | buddy-strings | 859. Buddy Strings | Easy | java | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.java) |
-| check-if-n-and-its-double-exist | 1346. Check If N And Its Double Exist | Easy | java | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](./solutions/Easy/1346-check-if-n-and-its-double-exist/solution.java) |
 | how-many-numbers-are-smaller-than-the-current-number | 1365. How Many Numbers Are Smaller Than The Current Number | Easy | java | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution](./solutions/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | jump-game-vii | Jump Game VII | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.java) |
@@ -129,7 +130,6 @@
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | java | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.java) |
 | mean-of-array-after-removing-some-elements | 1619. Mean Of Array After Removing Some Elements | Easy | java | [Problem](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Solution](./solutions/Easy/1619-mean-of-array-after-removing-some-elements/solution.java) |
 | maximum-units-on-a-truck | 1710. Maximum Units On A Truck | Easy | java | [Problem](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./solutions/Easy/1710-maximum-units-on-a-truck/solution.java) |
-| maximum-difference-by-remapping-a-digit | 2566. Maximum Difference By Remapping A Digit | Easy | java | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Solution](./solutions/Easy/2566-maximum-difference-by-remapping-a-digit/solution.java) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
 | minimum-common-value | Minimum Common Value | Easy | java | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.java) |
 | minimum-cost-to-set-cooking-time | Minimum Cost to Set Cooking Time | Medium | java | [Problem](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [Solution](./solutions/Medium/2162-minimum-cost-to-set-cooking-time/solution.java) |
@@ -139,6 +139,7 @@
 | number-of-islands | Number of Islands | Medium | java | [Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](./solutions/Medium/0200-number-of-islands/solution.java) |
 | perfect-number | 507. Perfect Number | Easy | java | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
+| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | positions-of-large-groups | 830. Positions Of Large Groups | Easy | java | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.java) |
 | remove-linked-list-elements | Remove Linked List Elements | Easy | java | [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./solutions/Easy/0203-remove-linked-list-elements/solution.java) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
@@ -159,6 +160,6 @@
 | special-array-with-x-elements-greater-than-or-equal-x | 1608. Special Array With X Elements Greater Than Or Equal X | Easy | java | [Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](./solutions/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/solution.java) |
 | sort-array-by-increasing-frequency | 1636. Sort Array By Increasing Frequency | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](./solutions/Easy/1636-sort-array-by-increasing-frequency/solution.java) |
 | widest-vertical-area-between-two-points-containing-no-points | 1637. Widest Vertical Area Between Two Points Containing No Points | Easy | java | [Problem](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Solution](./solutions/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/solution.java) |
-| count-distinct-numbers-on-board | 2549. Count Distinct Numbers On Board | Easy | java | [Problem](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Solution](./solutions/Easy/2549-count-distinct-numbers-on-board/solution.java) |
+| maximum-difference-by-remapping-a-digit | 2566. Maximum Difference By Remapping A Digit | Easy | java | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Solution](./solutions/Easy/2566-maximum-difference-by-remapping-a-digit/solution.java) |
 | split-with-minimum-sum | 2578. Split With Minimum Sum | Easy | java | [Problem](https://leetcode.com/problems/split-with-minimum-sum/) | [Solution](./solutions/Easy/2578-split-with-minimum-sum/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
