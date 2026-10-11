@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 159 Solved
+## Progress Summary: 160 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
+| earliest-finish-time-for-land-and-water-rides-i | Earliest Finish Time for Land and Water Rides I | Easy | java | [Problem](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](./solutions/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
