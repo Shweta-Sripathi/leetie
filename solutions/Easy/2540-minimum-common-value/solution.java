@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Two Pointers, Binary Search
 // Link     : https://leetcode.com/problems/minimum-common-value/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42844000 (beats 0%)
+// Runtime  : 2 ms (beats 93%)
+// Memory   : 80372000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
