@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42404000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43672000 (beats 73%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
