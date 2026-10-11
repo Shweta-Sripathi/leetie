@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy, Sorting
 // Link     : https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42792000 (beats 0%)
+// Runtime  : 6 ms (beats 40%)
+// Memory   : 44236000 (beats 90%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
