@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42408000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 45040000 (beats 26%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
