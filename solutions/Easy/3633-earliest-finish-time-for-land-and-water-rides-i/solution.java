@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Two Pointers, Binary Search, Greedy, Sorting
 // Link     : https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42820000 (beats 0%)
+// Runtime  : 4 ms (beats 24%)
+// Memory   : 46800000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
