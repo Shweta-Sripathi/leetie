@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Prefix Sum
 // Link     : https://leetcode.com/problems/left-and-right-sum-differences/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43032000 (beats 0%)
+// Runtime  : 2 ms (beats 99%)
+// Memory   : 46500000 (beats 72%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
