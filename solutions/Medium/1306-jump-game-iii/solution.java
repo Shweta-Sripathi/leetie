@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Breadth-First Search
 // Link     : https://leetcode.com/problems/jump-game-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42492000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 48744000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
