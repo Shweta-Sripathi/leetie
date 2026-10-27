@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting, Enumeration
 // Link     : https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
-// Runtime  : 1 ms (beats 98%)
-// Memory   : 44800000 (beats 94%)
+// Runtime  : 2 ms (beats 27%)
+// Memory   : 44812000 (beats 90%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
