@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 162 Solved
+## Progress Summary: 163 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 3sum | 3Sum | Medium | java | [Problem](https://leetcode.com/problems/3sum/) | [Solution](./solutions/Medium/0015-3sum/solution.java) |
 | 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | java | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.java) |
 | append-k-integers-with-minimal-sum | Append K Integers With Minimal Sum | Medium | java | [Problem](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Solution](./solutions/Medium/2195-append-k-integers-with-minimal-sum/solution.java) |
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
@@ -19,7 +20,6 @@
 | check-if-n-and-its-double-exist | 1346. Check If N And Its Double Exist | Easy | java | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](./solutions/Easy/1346-check-if-n-and-its-double-exist/solution.java) |
 | alternating-digit-sum | 2544. Alternating Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/alternating-digit-sum/) | [Solution](./solutions/Easy/2544-alternating-digit-sum/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
-| count-distinct-numbers-on-board | 2549. Count Distinct Numbers On Board | Easy | java | [Problem](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Solution](./solutions/Easy/2549-count-distinct-numbers-on-board/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
 | count-negative-numbers-in-a-sorted-matrix | Count Negative Numbers in a Sorted Matrix | Easy | java | [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./solutions/Easy/1351-count-negative-numbers-in-a-sorted-matrix/solution.java) |
 | count-operations-to-obtain-zero | Count Operations to Obtain Zero | Easy | java | [Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Solution](./solutions/Easy/2169-count-operations-to-obtain-zero/solution.java) |
@@ -36,15 +36,15 @@
 | find-the-length-of-the-longest-common-prefix | Find the Length of the Longest Common Prefix | Medium | java | [Problem](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Solution](./solutions/Medium/3043-find-the-length-of-the-longest-common-prefix/solution.java) |
 | find-three-consecutive-integers-that-sum-to-a-given-number | Find Three Consecutive Integers That Sum to a Given Number | Medium | java | [Problem](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Solution](./solutions/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/solution.java) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
+| goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
-| length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
-| goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
-| how-many-numbers-are-smaller-than-the-current-number | 1365. How Many Numbers Are Smaller Than The Current Number | Easy | java | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution](./solutions/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | jump-game-vii | Jump Game VII | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.java) |
 | keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
 | left-and-right-sum-differences | Left and Right Sum Differences | Easy | java | [Problem](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](./solutions/Easy/2574-left-and-right-sum-differences/solution.java) |
+| length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
+| how-many-numbers-are-smaller-than-the-current-number | 1365. How Many Numbers Are Smaller Than The Current Number | Easy | java | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution](./solutions/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) |
 | long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
 | longest-nice-substring | Longest Nice Substring | Easy | java | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.java) |
 | longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
@@ -162,6 +162,7 @@
 | smallest-value-after-replacing-with-sum-of-prime-factors | 2507. Smallest Value After Replacing With Sum Of Prime Factors | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Solution](./solutions/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/solution.java) |
 | minimize-the-maximum-of-two-arrays | 2513. Minimize The Maximum Of Two Arrays | Medium | java | [Problem](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Solution](./solutions/Medium/2513-minimize-the-maximum-of-two-arrays/solution.java) |
 | check-if-point-is-reachable | 2543. Check If Point Is Reachable | Hard | java | [Problem](https://leetcode.com/problems/check-if-point-is-reachable/) | [Solution](./solutions/Hard/2543-check-if-point-is-reachable/solution.java) |
+| count-distinct-numbers-on-board | 2549. Count Distinct Numbers On Board | Easy | java | [Problem](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Solution](./solutions/Easy/2549-count-distinct-numbers-on-board/solution.java) |
 | count-collisions-of-monkeys-on-a-polygon | 2550. Count Collisions Of Monkeys On A Polygon | Medium | java | [Problem](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Solution](./solutions/Medium/2550-count-collisions-of-monkeys-on-a-polygon/solution.java) |
 | maximum-difference-by-remapping-a-digit | 2566. Maximum Difference By Remapping A Digit | Easy | java | [Problem](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Solution](./solutions/Easy/2566-maximum-difference-by-remapping-a-digit/solution.java) |
 | count-the-number-of-square-free-subsets | 2572. Count The Number Of Square Free Subsets | Medium | java | [Problem](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Solution](./solutions/Medium/2572-count-the-number-of-square-free-subsets/solution.java) |
