@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math, Sorting, Polygons
 // Link     : https://leetcode.com/problems/type-of-triangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41872000 (beats 0%)
+// Runtime  : 1 ms (beats 60%)
+// Memory   : 43072000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
