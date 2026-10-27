@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Geometry, Sorting, Enumeration
 // Link     : https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42152000 (beats 0%)
+// Runtime  : 12 ms (beats 47%)
+// Memory   : 45772000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
