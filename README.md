@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 167 Solved
+## Progress Summary: 168 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -35,6 +35,7 @@
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
 | find-the-length-of-the-longest-common-prefix | Find the Length of the Longest Common Prefix | Medium | java | [Problem](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Solution](./solutions/Medium/3043-find-the-length-of-the-longest-common-prefix/solution.java) |
+| find-the-number-of-ways-to-place-people-i | Find the Number of Ways to Place People I | Medium | java | [Problem](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Solution](./solutions/Medium/3025-find-the-number-of-ways-to-place-people-i/solution.java) |
 | find-three-consecutive-integers-that-sum-to-a-given-number | Find Three Consecutive Integers That Sum to a Given Number | Medium | java | [Problem](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Solution](./solutions/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/solution.java) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
 | goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
