@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Bit Manipulation, Sorting
 // Link     : https://leetcode.com/problems/find-if-array-can-be-sorted/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41888000 (beats 0%)
+// Runtime  : 2 ms (beats 79%)
+// Memory   : 45716000 (beats 90%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
