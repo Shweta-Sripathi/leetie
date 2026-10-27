@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Greedy, Sorting, Counting
 // Link     : https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 41988000 (beats 0%)
+// Runtime  : 11 ms (beats 33%)
+// Memory   : 47708000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
 // Synced by: leetie
