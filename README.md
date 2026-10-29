@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 211 Solved
+## Progress Summary: 212 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -72,6 +72,7 @@
 | minimum-common-value | Minimum Common Value | Easy | java | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.java) |
 | minimum-cost-of-buying-candies-with-discount | Minimum Cost of Buying Candies With Discount | Easy | java | [Problem](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Solution](./solutions/Easy/2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
 | minimum-cost-to-set-cooking-time | Minimum Cost to Set Cooking Time | Medium | java | [Problem](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [Solution](./solutions/Medium/2162-minimum-cost-to-set-cooking-time/solution.java) |
+| minimum-distance-between-bst-nodes | Minimum Distance Between BST Nodes | Easy | java | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.java) |
 | minimum-element-after-replacement-with-digit-sum | Minimum Element After Replacement With Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Solution](./solutions/Easy/3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | minimum-number-of-pushes-to-type-word-ii | Minimum Number of Pushes to Type Word II | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Solution](./solutions/Medium/3016-minimum-number-of-pushes-to-type-word-ii/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
