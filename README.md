@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 302 Solved
+## Progress Summary: 303 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,7 +47,6 @@
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | find-if-array-can-be-sorted | Find if Array Can Be Sorted | Medium | java | [Problem](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Solution](./solutions/Medium/3011-find-if-array-can-be-sorted/solution.java) |
-| find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
 | find-smallest-letter-greater-than-target | Find Smallest Letter Greater Than Target | Easy | java | [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](./solutions/Easy/0744-find-smallest-letter-greater-than-target/solution.java) |
 | find-the-length-of-the-longest-common-prefix | Find the Length of the Longest Common Prefix | Medium | java | [Problem](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Solution](./solutions/Medium/3043-find-the-length-of-the-longest-common-prefix/solution.java) |
@@ -89,6 +88,7 @@
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-average-subarray-i | Maximum Average Subarray I | Easy | java | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.java) |
+| maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | mini-parser | Mini Parser | Medium | java | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.java) |
 | minimum-common-value | Minimum Common Value | Easy | java | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.java) |
@@ -231,6 +231,7 @@
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
+| find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
 | find-the-divisibility-array-of-a-string | 2575. Find The Divisibility Array Of A String | Medium | java | [Problem](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Solution](./solutions/Medium/2575-find-the-divisibility-array-of-a-string/solution.java) |
 | count-total-number-of-colored-cells | 2579. Count Total Number Of Colored Cells | Medium | java | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Solution](./solutions/Medium/2579-count-total-number-of-colored-cells/solution.java) |
