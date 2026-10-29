@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 295 Solved
+## Progress Summary: 296 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -128,6 +128,7 @@
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.java) |
 | minimum-sum-of-four-digit-number-after-splitting-digits | Minimum Sum of Four Digit Number After Splitting Digits | Easy | java | [Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Solution](./solutions/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) |
 | nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
+| nth-digit | Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
 | number-of-islands | Number of Islands | Medium | java | [Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](./solutions/Medium/0200-number-of-islands/solution.java) |
 | palindrome-linked-list | Palindrome Linked List | Easy | java | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.java) |
 | partition-list | Partition List | Medium | java | [Problem](https://leetcode.com/problems/partition-list/) | [Solution](./solutions/Medium/0086-partition-list/solution.java) |
