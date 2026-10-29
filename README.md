@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 261 Solved
+## Progress Summary: 262 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -32,6 +32,7 @@
 | count-operations-to-obtain-zero | Count Operations to Obtain Zero | Easy | java | [Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Solution](./solutions/Easy/2169-count-operations-to-obtain-zero/solution.java) |
 | count-the-number-of-special-characters-i | Count the Number of Special Characters I | Easy | java | [Problem](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Solution](./solutions/Easy/3120-count-the-number-of-special-characters-i/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
+| course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | customers-who-never-order | Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
 | decode-ways | Decode Ways | Medium | java | [Problem](https://leetcode.com/problems/decode-ways/) | [Solution](./solutions/Medium/0091-decode-ways/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
@@ -154,7 +155,6 @@
 | longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
-| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
@@ -179,6 +179,7 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
+| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | sum-of-square-numbers | 633. Sum Of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
 | solve-the-equation | 640. Solve The Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
 | palindromic-substrings | 647. Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
