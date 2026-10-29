@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 313 Solved
+## Progress Summary: 314 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -128,6 +128,7 @@
 | rotate-array | Rotate Array | Medium | java | [Problem](https://leetcode.com/problems/rotate-array/) | [Solution](./solutions/Medium/0189-rotate-array/solution.java) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
+| search-a-2d-matrix | Search a 2D Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
 | search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | search-in-a-binary-search-tree | Search in a Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.java) |
 | search-in-rotated-sorted-array-ii | Search in Rotated Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./solutions/Medium/0081-search-in-rotated-sorted-array-ii/solution.java) |
@@ -251,14 +252,14 @@
 | goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
-| jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
-| jump-game-vii | Jump Game VII | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.java) |
-| keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
 | length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
 | buddy-strings | 859. Buddy Strings | Easy | java | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.java) |
 | how-many-numbers-are-smaller-than-the-current-number | 1365. How Many Numbers Are Smaller Than The Current Number | Easy | java | [Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution](./solutions/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) |
+| jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
+| jump-game-vii | Jump Game VII | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.java) |
+| keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
 | long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
 | longest-nice-substring | Longest Nice Substring | Easy | java | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.java) |
 | longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
