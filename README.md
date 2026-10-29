@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 277 Solved
+## Progress Summary: 278 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -43,6 +43,7 @@
 | defuse-the-bomb | Defuse the Bomb | Easy | java | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
+| delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | java | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.java) |
 | design-add-and-search-words-data-structure | Design Add and Search Words Data Structure | Medium | java | [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](./solutions/Medium/0211-design-add-and-search-words-data-structure/solution.java) |
 | design-hashmap | Design HashMap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
@@ -89,14 +90,20 @@
 | left-and-right-sum-differences | Left and Right Sum Differences | Easy | java | [Problem](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](./solutions/Easy/2574-left-and-right-sum-differences/solution.java) |
 | letter-combinations-of-a-phone-number | 17. Letter Combinations Of A Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | generate-parentheses | 22. Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
+| long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
 | longest-consecutive-sequence | Longest Consecutive Sequence | Medium | java | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/Medium/0128-longest-consecutive-sequence/solution.java) |
+| longest-nice-substring | Longest Nice Substring | Easy | java | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.java) |
+| longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
+| longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | lowest-common-ancestor-of-a-binary-search-tree | Lowest Common Ancestor of a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) |
 | lowest-common-ancestor-of-a-binary-tree | Lowest Common Ancestor of a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./solutions/Medium/0236-lowest-common-ancestor-of-a-binary-tree/solution.java) |
 | lru-cache | LRU Cache | Medium | java | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.java) |
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-average-subarray-i | Maximum Average Subarray I | Easy | java | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.java) |
+| maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | java | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.java) |
+| middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | minimum-common-value | Minimum Common Value | Easy | java | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.java) |
 | minimum-cost-of-buying-candies-with-discount | Minimum Cost of Buying Candies With Discount | Easy | java | [Problem](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Solution](./solutions/Easy/2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
@@ -104,10 +111,13 @@
 | minimum-distance-between-bst-nodes | Minimum Distance Between BST Nodes | Easy | java | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.java) |
 | minimum-element-after-replacement-with-digit-sum | Minimum Element After Replacement With Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Solution](./solutions/Easy/3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | minimum-number-of-pushes-to-type-word-ii | Minimum Number of Pushes to Type Word II | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Solution](./solutions/Medium/3016-minimum-number-of-pushes-to-type-word-ii/solution.java) |
+| minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | minimum-path-sum | Minimum Path Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.java) |
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.java) |
 | minimum-sum-of-four-digit-number-after-splitting-digits | Minimum Sum of Four Digit Number After Splitting Digits | Easy | java | [Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Solution](./solutions/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) |
 | nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
+| number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
+| number-of-islands | Number of Islands | Medium | java | [Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](./solutions/Medium/0200-number-of-islands/solution.java) |
 | palindrome-linked-list | Palindrome Linked List | Easy | java | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.java) |
 | partition-list | Partition List | Medium | java | [Problem](https://leetcode.com/problems/partition-list/) | [Solution](./solutions/Medium/0086-partition-list/solution.java) |
 | path-sum-ii | Path Sum II | Medium | java | [Problem](https://leetcode.com/problems/path-sum-ii/) | [Solution](./solutions/Medium/0113-path-sum-ii/solution.java) |
@@ -121,12 +131,16 @@
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
 | remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.java) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.java) |
+| remove-linked-list-elements | Remove Linked List Elements | Easy | java | [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./solutions/Easy/0203-remove-linked-list-elements/solution.java) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
 | repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
 | restore-ip-addresses | Restore IP Addresses | Medium | java | [Problem](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./solutions/Medium/0093-restore-ip-addresses/solution.java) |
+| reverse-bits | Reverse Bits | Easy | java | [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](./solutions/Easy/0190-reverse-bits/solution.java) |
 | reverse-linked-list | Reverse Linked List | Easy | java | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./solutions/Easy/0206-reverse-linked-list/solution.java) |
 | reverse-linked-list-ii | Reverse Linked List II | Medium | java | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.java) |
+| reverse-only-letters | Reverse Only Letters | Easy | java | [Problem](https://leetcode.com/problems/reverse-only-letters/) | [Solution](./solutions/Easy/0917-reverse-only-letters/solution.java) |
 | reverse-words-in-a-string | Reverse Words in a String | Medium | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./solutions/Medium/0151-reverse-words-in-a-string/solution.java) |
+| rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
 | rotate-array | Rotate Array | Medium | java | [Problem](https://leetcode.com/problems/rotate-array/) | [Solution](./solutions/Medium/0189-rotate-array/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
 | search-in-a-binary-search-tree | Search in a Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.java) |
@@ -137,46 +151,48 @@
 | set-mismatch | Set Mismatch | Easy | java | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.java) |
+| sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
+| sort-array-by-parity-ii | Sort Array By Parity II | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.java) |
 | sort-colors | Sort Colors | Medium | java | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](./solutions/Medium/0075-sort-colors/solution.java) |
 | sort-list | Sort List | Medium | java | [Problem](https://leetcode.com/problems/sort-list/) | [Solution](./solutions/Medium/0148-sort-list/solution.java) |
 | spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
+| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | subsets | Subsets | Medium | java | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.java) |
 | subsets-ii | Subsets II | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
+| substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | java | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
 | summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
+| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
+| tenth-line | Tenth Line | Easy | bash | [Problem](https://leetcode.com/problems/tenth-line/) | [Solution](./solutions/Easy/0195-tenth-line/solution.txt) |
+| toeplitz-matrix | Toeplitz Matrix | Easy | java | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.java) |
+| transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | swap-nodes-in-pairs | 24. Swap Nodes In Pairs | Medium | java | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.java) |
 | search-in-rotated-sorted-array | 33. Search In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
 | count-and-say | 38. Count And Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | combination-sum | 39. Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
+| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
+| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
+| type-of-triangle | Type of Triangle | Easy | java | [Problem](https://leetcode.com/problems/type-of-triangle/) | [Solution](./solutions/Easy/3024-type-of-triangle/solution.java) |
+| ugly-number | Ugly Number | Easy | java | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.java) |
+| unique-binary-search-trees | Unique Binary Search Trees | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./solutions/Medium/0096-unique-binary-search-trees/solution.java) |
+| unique-binary-search-trees-ii | Unique Binary Search Trees II | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution](./solutions/Medium/0095-unique-binary-search-trees-ii/solution.java) |
+| unique-morse-code-words | Unique Morse Code Words | Easy | java | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.java) |
+| unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
+| valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
+| valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
+| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
+| wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | jump-game-ii | 45. Jump Game Ii | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
 | group-anagrams | 49. Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | maximum-subarray | 53. Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
 | merge-intervals | 56. Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
-| long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
-| longest-nice-substring | Longest Nice Substring | Easy | java | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.java) |
-| longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
-| longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
-| maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
-| middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
-| minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
-| number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
-| number-of-islands | Number of Islands | Medium | java | [Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](./solutions/Medium/0200-number-of-islands/solution.java) |
-| remove-linked-list-elements | Remove Linked List Elements | Easy | java | [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./solutions/Easy/0203-remove-linked-list-elements/solution.java) |
-| reverse-bits | Reverse Bits | Easy | java | [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](./solutions/Easy/0190-reverse-bits/solution.java) |
-| reverse-only-letters | Reverse Only Letters | Easy | java | [Problem](https://leetcode.com/problems/reverse-only-letters/) | [Solution](./solutions/Easy/0917-reverse-only-letters/solution.java) |
-| rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
 | rotate-list | 61. Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
-| sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
-| sort-array-by-parity-ii | Sort Array By Parity II | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.java) |
-| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
-| substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | java | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.java) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
-| wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | unique-paths | 62. Unique Paths | Medium | java | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.java) |
 | sqrtx | 69. Sqrtx | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
 | predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
@@ -205,17 +221,6 @@
 | strange-printer | 664. Strange Printer | Hard | java | [Problem](https://leetcode.com/problems/strange-printer/) | [Solution](./solutions/Hard/0664-strange-printer/solution.java) |
 | implement-magic-dictionary | 676. Implement Magic Dictionary | Medium | java | [Problem](https://leetcode.com/problems/implement-magic-dictionary/) | [Solution](./solutions/Medium/0676-implement-magic-dictionary/solution.java) |
 | map-sum-pairs | 677. Map Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.java) |
-| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
-| tenth-line | Tenth Line | Easy | bash | [Problem](https://leetcode.com/problems/tenth-line/) | [Solution](./solutions/Easy/0195-tenth-line/solution.txt) |
-| toeplitz-matrix | Toeplitz Matrix | Easy | java | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.java) |
-| transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
-| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
-| type-of-triangle | Type of Triangle | Easy | java | [Problem](https://leetcode.com/problems/type-of-triangle/) | [Solution](./solutions/Easy/3024-type-of-triangle/solution.java) |
-| ugly-number | Ugly Number | Easy | java | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.java) |
-| unique-binary-search-trees | Unique Binary Search Trees | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](./solutions/Medium/0096-unique-binary-search-trees/solution.java) |
-| unique-binary-search-trees-ii | Unique Binary Search Trees II | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution](./solutions/Medium/0095-unique-binary-search-trees-ii/solution.java) |
-| unique-morse-code-words | Unique Morse Code Words | Easy | java | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.java) |
-| unique-paths-ii | Unique Paths II | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
 | valid-parenthesis-string | 678. Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | valid-palindrome-ii | 680. Valid Palindrome Ii | Easy | java | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.java) |
 | repeated-string-match | 686. Repeated String Match | Medium | java | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.java) |
@@ -278,8 +283,4 @@
 | find-the-divisibility-array-of-a-string | 2575. Find The Divisibility Array Of A String | Medium | java | [Problem](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Solution](./solutions/Medium/2575-find-the-divisibility-array-of-a-string/solution.java) |
 | split-with-minimum-sum | 2578. Split With Minimum Sum | Easy | java | [Problem](https://leetcode.com/problems/split-with-minimum-sum/) | [Solution](./solutions/Easy/2578-split-with-minimum-sum/solution.java) |
 | count-total-number-of-colored-cells | 2579. Count Total Number Of Colored Cells | Medium | java | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Solution](./solutions/Medium/2579-count-total-number-of-colored-cells/solution.java) |
-| valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
-| valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
-| validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
-| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
 | word-frequency | Word Frequency | Medium | bash | [Problem](https://leetcode.com/problems/word-frequency/) | [Solution](./solutions/Medium/0192-word-frequency/solution.txt) |
