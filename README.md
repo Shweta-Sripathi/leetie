@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 215 Solved
+## Progress Summary: 216 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -104,6 +104,7 @@
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.java) |
 | sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.java) |
+| spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | java | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
