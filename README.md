@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 263 Solved
+## Progress Summary: 264 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -85,6 +85,7 @@
 | minimum-element-after-replacement-with-digit-sum | Minimum Element After Replacement With Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Solution](./solutions/Easy/3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | minimum-number-of-pushes-to-type-word-ii | Minimum Number of Pushes to Type Word II | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Solution](./solutions/Medium/3016-minimum-number-of-pushes-to-type-word-ii/solution.java) |
 | minimum-path-sum | Minimum Path Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.java) |
+| minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.java) |
 | minimum-sum-of-four-digit-number-after-splitting-digits | Minimum Sum of Four Digit Number After Splitting Digits | Easy | java | [Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Solution](./solutions/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) |
 | nim-game | Nim Game | Easy | java | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.java) |
 | palindrome-linked-list | Palindrome Linked List | Easy | java | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.java) |
