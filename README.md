@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 283 Solved
+## Progress Summary: 284 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -154,6 +154,7 @@
 | self-dividing-numbers | Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | set-mismatch | Set Mismatch | Easy | java | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.java) |
+| shuffle-an-array | Shuffle an Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.java) |
 | sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
