@@ -1,0 +1,14 @@
+// ──────────────────────────────────────────────────
+// Problem  : 192. Word Frequency
+// Difficulty: Medium
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/word-frequency/
+// Runtime  : 69 ms (beats 74%)
+// Memory   : 3672000 (beats 96%)
+// Language : bash
+// Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Read from the file words.txt and output the word frequency list to stdout.
+cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r -n | awk '{print $2 " " $1}'
