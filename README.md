@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 257 Solved
+## Progress Summary: 258 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -97,6 +97,7 @@
 | remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.java) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.java) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
+| repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
 | restore-ip-addresses | Restore IP Addresses | Medium | java | [Problem](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./solutions/Medium/0093-restore-ip-addresses/solution.java) |
 | reverse-linked-list | Reverse Linked List | Easy | java | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./solutions/Easy/0206-reverse-linked-list/solution.java) |
 | reverse-linked-list-ii | Reverse Linked List II | Medium | java | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.java) |
@@ -153,6 +154,15 @@
 | longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
+| random-flip-matrix | 519. Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
+| continuous-subarray-sum | 523. Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
+| random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
+| complex-number-multiplication | 537. Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
+| minimum-time-difference | 539. Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
+| optimal-division | 553. Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
+| next-greater-element-iii | 556. Next Greater Element Iii | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
+| fraction-addition-and-subtraction | 592. Fraction Addition And Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
+| valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
@@ -169,15 +179,6 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
-| random-flip-matrix | 519. Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
-| continuous-subarray-sum | 523. Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
-| random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
-| complex-number-multiplication | 537. Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
-| minimum-time-difference | 539. Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
-| optimal-division | 553. Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
-| next-greater-element-iii | 556. Next Greater Element Iii | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
-| fraction-addition-and-subtraction | 592. Fraction Addition And Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
-| valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | sum-of-square-numbers | 633. Sum Of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
 | solve-the-equation | 640. Solve The Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
 | palindromic-substrings | 647. Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
