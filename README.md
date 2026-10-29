@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 287 Solved
+## Progress Summary: 288 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,6 +52,7 @@
 | divide-an-array-into-subarrays-with-minimum-cost-i | Divide an Array Into Subarrays With Minimum Cost I | Easy | java | [Problem](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Solution](./solutions/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/solution.java) |
 | earliest-finish-time-for-land-and-water-rides-i | Earliest Finish Time for Land and Water Rides I | Easy | java | [Problem](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](./solutions/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
+| elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | find-if-array-can-be-sorted | Find if Array Can Be Sorted | Medium | java | [Problem](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Solution](./solutions/Medium/3011-find-if-array-can-be-sorted/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
