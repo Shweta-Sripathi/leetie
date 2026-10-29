@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 280 Solved
+## Progress Summary: 281 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | design-add-and-search-words-data-structure | Design Add and Search Words Data Structure | Medium | java | [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](./solutions/Medium/0211-design-add-and-search-words-data-structure/solution.java) |
 | design-hashmap | Design HashMap | Easy | java | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.java) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
+| different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
 | distinct-numbers-in-each-subarray | Distinct Numbers in Each Subarray | Medium | java | [Problem](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [Solution](./solutions/Medium/1852-distinct-numbers-in-each-subarray/solution.java) |
 | divide-an-array-into-subarrays-with-minimum-cost-i | Divide an Array Into Subarrays With Minimum Cost I | Easy | java | [Problem](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Solution](./solutions/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/solution.java) |
 | earliest-finish-time-for-land-and-water-rides-i | Earliest Finish Time for Land and Water Rides I | Easy | java | [Problem](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](./solutions/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
