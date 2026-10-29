@@ -1,0 +1,28 @@
+// ──────────────────────────────────────────────────
+// Problem  : 263. Ugly Number
+// Difficulty: Easy
+// Tags     : Math
+// Link     : https://leetcode.com/problems/ugly-number/
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 42432000 (beats 58%)
+// Language : java
+// Copyright: (c) 2026 Shweta-Sripathi. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+    public boolean isUgly(int n) {
+        if (n <= 0) {
+            return false;
+        }
+        
+        int[] factors = {2, 3, 5};
+        for (int factor : factors) {
+            while (n % factor == 0) {
+                n /= factor;
+            }
+        }
+        
+        return n == 1;
+    }
+}
