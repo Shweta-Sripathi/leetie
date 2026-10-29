@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 269 Solved
+## Progress Summary: 270 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,7 +26,6 @@
 | construct-binary-tree-from-inorder-and-postorder-traversal | Construct Binary Tree from Inorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
 | construct-binary-tree-from-preorder-and-inorder-traversal | Construct Binary Tree from Preorder and Inorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./solutions/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.java) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
-| base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
 | convert-sorted-list-to-binary-search-tree | Convert Sorted List to Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./solutions/Medium/0109-convert-sorted-list-to-binary-search-tree/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
 | count-binary-substrings | Count Binary Substrings | Easy | java | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.java) |
@@ -91,6 +90,7 @@
 | long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
 | longest-consecutive-sequence | Longest Consecutive Sequence | Medium | java | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/Medium/0128-longest-consecutive-sequence/solution.java) |
 | lru-cache | LRU Cache | Medium | java | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.java) |
+| maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-average-subarray-i | Maximum Average Subarray I | Easy | java | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.java) |
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | java | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
@@ -183,6 +183,7 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
+| base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
 | perfect-number | 507. Perfect Number | Easy | java | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.java) |
 | valid-square | 593. Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
