@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 289 Solved
+## Progress Summary: 290 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,6 +39,7 @@
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | customers-who-never-order | Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
+| decode-string | Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
 | decode-ways | Decode Ways | Medium | java | [Problem](https://leetcode.com/problems/decode-ways/) | [Solution](./solutions/Medium/0091-decode-ways/solution.java) |
 | defuse-the-bomb | Defuse the Bomb | Easy | java | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
