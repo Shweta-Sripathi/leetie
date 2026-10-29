@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 223 Solved
+## Progress Summary: 224 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,6 +102,7 @@
 | search-in-a-binary-search-tree | Search in a Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.java) |
 | second-minimum-node-in-a-binary-tree | Second Minimum Node In a Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
 | self-dividing-numbers | Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
+| set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
 | set-mismatch | Set Mismatch | Easy | java | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.java) |
 | simplify-path | Simplify Path | Medium | java | [Problem](https://leetcode.com/problems/simplify-path/) | [Solution](./solutions/Medium/0071-simplify-path/solution.java) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | java | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.java) |
