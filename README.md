@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 174 Solved
+## Progress Summary: 175 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -122,6 +122,7 @@
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
 | number-of-islands | Number of Islands | Medium | java | [Problem](https://leetcode.com/problems/number-of-islands/) | [Solution](./solutions/Medium/0200-number-of-islands/solution.java) |
 | perfect-number | 507. Perfect Number | Easy | java | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.java) |
+| range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | positions-of-large-groups | 830. Positions Of Large Groups | Easy | java | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.java) |
 | remove-linked-list-elements | Remove Linked List Elements | Easy | java | [Problem](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./solutions/Easy/0203-remove-linked-list-elements/solution.java) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
@@ -133,12 +134,11 @@
 | sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.java) |
 | sqrtx | 69. Sqrtx | Easy | java | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](./solutions/Easy/0069-sqrtx/solution.java) |
-| range-addition-ii | 598. Range Addition Ii | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | robot-return-to-origin | 657. Robot Return To Origin | Easy | java | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.java) |
-| special-array-with-x-elements-greater-than-or-equal-x | 1608. Special Array With X Elements Greater Than Or Equal X | Easy | java | [Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](./solutions/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/solution.java) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | java | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.java) |
 | sum-of-squares-of-special-elements | Sum of Squares of Special Elements | Easy | java | [Problem](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Solution](./solutions/Easy/2778-sum-of-squares-of-special-elements/solution.java) |
+| summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
 | tenth-line | Tenth Line | Easy | bash | [Problem](https://leetcode.com/problems/tenth-line/) | [Solution](./solutions/Easy/0195-tenth-line/solution.txt) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | type-of-triangle | Type of Triangle | Easy | java | [Problem](https://leetcode.com/problems/type-of-triangle/) | [Solution](./solutions/Easy/3024-type-of-triangle/solution.java) |
@@ -152,6 +152,7 @@
 | check-if-string-is-transformable-with-substring-sort-operations | 1585. Check If String Is Transformable With Substring Sort Operations | Hard | java | [Problem](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Solution](./solutions/Hard/1585-check-if-string-is-transformable-with-substring-sort-operations/solution.java) |
 | maximum-sum-obtained-of-any-permutation | 1589. Maximum Sum Obtained Of Any Permutation | Medium | java | [Problem](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Solution](./solutions/Medium/1589-maximum-sum-obtained-of-any-permutation/solution.java) |
 | alert-using-same-key-card-three-or-more-times-in-a-one-hour-period | 1604. Alert Using Same Key Card Three Or More Times In A One Hour Period | Medium | java | [Problem](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Solution](./solutions/Medium/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/solution.java) |
+| special-array-with-x-elements-greater-than-or-equal-x | 1608. Special Array With X Elements Greater Than Or Equal X | Easy | java | [Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](./solutions/Easy/1608-special-array-with-x-elements-greater-than-or-equal-x/solution.java) |
 | maximum-number-of-visible-points | 1610. Maximum Number Of Visible Points | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Solution](./solutions/Hard/1610-maximum-number-of-visible-points/solution.java) |
 | mean-of-array-after-removing-some-elements | 1619. Mean Of Array After Removing Some Elements | Easy | java | [Problem](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Solution](./solutions/Easy/1619-mean-of-array-after-removing-some-elements/solution.java) |
 | best-team-with-no-conflicts | 1626. Best Team With No Conflicts | Medium | java | [Problem](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Solution](./solutions/Medium/1626-best-team-with-no-conflicts/solution.java) |
