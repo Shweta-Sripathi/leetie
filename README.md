@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 214 Solved
+## Progress Summary: 215 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,6 +16,7 @@
 | bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
 | check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
+| combination-sum-ii | Combination Sum II | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./solutions/Medium/0040-combination-sum-ii/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
 | count-binary-substrings | Count Binary Substrings | Easy | java | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
@@ -60,6 +61,9 @@
 | keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
 | kth-largest-element-in-a-stream | Kth Largest Element in a Stream | Easy | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.java) |
 | left-and-right-sum-differences | Left and Right Sum Differences | Easy | java | [Problem](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](./solutions/Easy/2574-left-and-right-sum-differences/solution.java) |
+| letter-combinations-of-a-phone-number | 17. Letter Combinations Of A Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
+| generate-parentheses | 22. Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
+| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
 | long-pressed-name | Long Pressed Name | Easy | java | [Problem](https://leetcode.com/problems/long-pressed-name/) | [Solution](./solutions/Easy/0925-long-pressed-name/solution.java) |
 | longest-nice-substring | Longest Nice Substring | Easy | java | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.java) |
 | longest-substring-of-all-vowels-in-order | Longest Substring Of All Vowels in Order | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Solution](./solutions/Medium/1839-longest-substring-of-all-vowels-in-order/solution.java) |
@@ -109,20 +113,10 @@
 | tenth-line | Tenth Line | Easy | bash | [Problem](https://leetcode.com/problems/tenth-line/) | [Solution](./solutions/Easy/0195-tenth-line/solution.txt) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | java | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| letter-combinations-of-a-phone-number | 17. Letter Combinations Of A Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
-| generate-parentheses | 22. Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | swap-nodes-in-pairs | 24. Swap Nodes In Pairs | Medium | java | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.java) |
 | search-in-rotated-sorted-array | 33. Search In Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
 | count-and-say | 38. Count And Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | combination-sum | 39. Combination Sum | Medium | java | [Problem](https://leetcode.com/problems/combination-sum/) | [Solution](./solutions/Medium/0039-combination-sum/solution.java) |
-| first-missing-positive | 41. First Missing Positive | Hard | java | [Problem](https://leetcode.com/problems/first-missing-positive/) | [Solution](./solutions/Hard/0041-first-missing-positive/solution.java) |
-| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
-| type-of-triangle | Type of Triangle | Easy | java | [Problem](https://leetcode.com/problems/type-of-triangle/) | [Solution](./solutions/Easy/3024-type-of-triangle/solution.java) |
-| ugly-number | Ugly Number | Easy | java | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.java) |
-| unique-morse-code-words | Unique Morse Code Words | Easy | java | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.java) |
-| valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
-| valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
-| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | jump-game-ii | 45. Jump Game Ii | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
@@ -182,6 +176,9 @@
 | shifting-letters | 848. Shifting Letters | Medium | java | [Problem](https://leetcode.com/problems/shifting-letters/) | [Solution](./solutions/Medium/0848-shifting-letters/solution.java) |
 | score-of-parentheses | 856. Score Of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.java) |
 | buddy-strings | 859. Buddy Strings | Easy | java | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.java) |
+| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
+| type-of-triangle | Type of Triangle | Easy | java | [Problem](https://leetcode.com/problems/type-of-triangle/) | [Solution](./solutions/Easy/3024-type-of-triangle/solution.java) |
+| ugly-number | Ugly Number | Easy | java | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.java) |
 | uncommon-words-from-two-sentences | 884. Uncommon Words From Two Sentences | Easy | java | [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](./solutions/Easy/0884-uncommon-words-from-two-sentences/solution.java) |
 | jump-game-iv | 1345. Jump Game Iv | Hard | java | [Problem](https://leetcode.com/problems/jump-game-iv/) | [Solution](./solutions/Hard/1345-jump-game-iv/solution.java) |
 | check-if-n-and-its-double-exist | 1346. Check If N And Its Double Exist | Easy | java | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](./solutions/Easy/1346-check-if-n-and-its-double-exist/solution.java) |
@@ -220,3 +217,7 @@
 | find-the-divisibility-array-of-a-string | 2575. Find The Divisibility Array Of A String | Medium | java | [Problem](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Solution](./solutions/Medium/2575-find-the-divisibility-array-of-a-string/solution.java) |
 | split-with-minimum-sum | 2578. Split With Minimum Sum | Easy | java | [Problem](https://leetcode.com/problems/split-with-minimum-sum/) | [Solution](./solutions/Easy/2578-split-with-minimum-sum/solution.java) |
 | count-total-number-of-colored-cells | 2579. Count Total Number Of Colored Cells | Medium | java | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Solution](./solutions/Medium/2579-count-total-number-of-colored-cells/solution.java) |
+| unique-morse-code-words | Unique Morse Code Words | Easy | java | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.java) |
+| valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
+| valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
