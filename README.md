@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 225 Solved
+## Progress Summary: 226 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
 | check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | combination-sum-ii | Combination Sum II | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./solutions/Medium/0040-combination-sum-ii/solution.java) |
+| combinations | Combinations | Medium | java | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
 | count-binary-substrings | Count Binary Substrings | Easy | java | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
