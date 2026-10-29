@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 212 Solved
+## Progress Summary: 213 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -67,6 +67,7 @@
 | maximum-average-subarray-i | Maximum Average Subarray I | Easy | java | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.java) |
 | maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | java | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.java) |
+| merge-intervals | 56. Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | minimum-common-value | Minimum Common Value | Easy | java | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.java) |
@@ -91,6 +92,7 @@
 | reverse-linked-list | Reverse Linked List | Easy | java | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./solutions/Easy/0206-reverse-linked-list/solution.java) |
 | reverse-only-letters | Reverse Only Letters | Easy | java | [Problem](https://leetcode.com/problems/reverse-only-letters/) | [Solution](./solutions/Easy/0917-reverse-only-letters/solution.java) |
 | rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
+| rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
 | search-in-a-binary-search-tree | Search in a Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.java) |
 | second-minimum-node-in-a-binary-tree | Second Minimum Node In a Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
 | self-dividing-numbers | Self Dividing Numbers | Easy | java | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.java) |
@@ -119,12 +121,12 @@
 | ugly-number | Ugly Number | Easy | java | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.java) |
 | valid-perfect-square | Valid Perfect Square | Easy | java | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | java | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.java) |
 | jump-game-ii | 45. Jump Game Ii | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ii/) | [Solution](./solutions/Medium/0045-jump-game-ii/solution.java) |
 | permutations-ii | 47. Permutations Ii | Medium | java | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.java) |
 | group-anagrams | 49. Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | maximum-subarray | 53. Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
-| merge-intervals | 56. Merge Intervals | Medium | java | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.java) |
 | length-of-last-word | 58. Length Of Last Word | Easy | java | [Problem](https://leetcode.com/problems/length-of-last-word/) | [Solution](./solutions/Easy/0058-length-of-last-word/solution.java) |
 | rotate-list | 61. Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | unique-paths | 62. Unique Paths | Medium | java | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.java) |
@@ -217,4 +219,3 @@
 | find-the-divisibility-array-of-a-string | 2575. Find The Divisibility Array Of A String | Medium | java | [Problem](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Solution](./solutions/Medium/2575-find-the-divisibility-array-of-a-string/solution.java) |
 | split-with-minimum-sum | 2578. Split With Minimum Sum | Easy | java | [Problem](https://leetcode.com/problems/split-with-minimum-sum/) | [Solution](./solutions/Easy/2578-split-with-minimum-sum/solution.java) |
 | count-total-number-of-colored-cells | 2579. Count Total Number Of Colored Cells | Medium | java | [Problem](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Solution](./solutions/Medium/2579-count-total-number-of-colored-cells/solution.java) |
-| weighted-word-mapping | Weighted Word Mapping | Easy | java | [Problem](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](./solutions/Easy/3838-weighted-word-mapping/solution.java) |
