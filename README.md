@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 310 Solved
+## Progress Summary: 311 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,7 +19,6 @@
 | binary-tree-level-order-traversal-ii | Binary Tree Level Order Traversal II | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./solutions/Medium/0107-binary-tree-level-order-traversal-ii/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | binary-watch | Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
-| check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | combination-sum-ii | Combination Sum II | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./solutions/Medium/0040-combination-sum-ii/solution.java) |
 | combination-sum-iii | Combination Sum III | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./solutions/Medium/0216-combination-sum-iii/solution.java) |
 | combinations | Combinations | Medium | java | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.java) |
@@ -106,6 +105,7 @@
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | partition-list | Partition List | Medium | java | [Problem](https://leetcode.com/problems/partition-list/) | [Solution](./solutions/Medium/0086-partition-list/solution.java) |
 | path-sum-ii | Path Sum II | Medium | java | [Problem](https://leetcode.com/problems/path-sum-ii/) | [Solution](./solutions/Medium/0113-path-sum-ii/solution.java) |
+| permutation-sequence | Permutation Sequence | Hard | java | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.java) |
 | populating-next-right-pointers-in-each-node | Populating Next Right Pointers in Each Node | Medium | java | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.java) |
 | populating-next-right-pointers-in-each-node-ii | Populating Next Right Pointers in Each Node II | Medium | java | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./solutions/Medium/0117-populating-next-right-pointers-in-each-node-ii/solution.java) |
 | power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
@@ -241,6 +241,7 @@
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
 | bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
 | boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
+| check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
 | count-collisions-of-monkeys-on-a-polygon | 2550. Count Collisions Of Monkeys On A Polygon | Medium | java | [Problem](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Solution](./solutions/Medium/2550-count-collisions-of-monkeys-on-a-polygon/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
