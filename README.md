@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 253 Solved
+## Progress Summary: 254 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -57,6 +57,7 @@
 | implement-queue-using-stacks | Implement Queue using Stacks | Easy | java | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.java) |
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
+| insertion-sort-list | Insertion Sort List | Medium | java | [Problem](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./solutions/Medium/0147-insertion-sort-list/solution.java) |
 | interleaving-string | Interleaving String | Medium | java | [Problem](https://leetcode.com/problems/interleaving-string/) | [Solution](./solutions/Medium/0097-interleaving-string/solution.java) |
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | intersection-of-two-arrays-ii | Intersection of Two Arrays II | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.java) |
