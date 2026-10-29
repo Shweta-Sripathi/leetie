@@ -2,17 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 188 Solved
+## Progress Summary: 189 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 3sum | 3Sum | Medium | java | [Problem](https://leetcode.com/problems/3sum/) | [Solution](./solutions/Medium/0015-3sum/solution.java) |
 | 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | java | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.java) |
 | append-k-integers-with-minimal-sum | Append K Integers With Minimal Sum | Medium | java | [Problem](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Solution](./solutions/Medium/2195-append-k-integers-with-minimal-sum/solution.java) |
-| binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
-| bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
-| boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
-| check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | letter-combinations-of-a-phone-number | 17. Letter Combinations Of A Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | generate-parentheses | 22. Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | swap-nodes-in-pairs | 24. Swap Nodes In Pairs | Medium | java | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.java) |
@@ -29,9 +25,13 @@
 | rotate-list | 61. Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | unique-paths | 62. Unique Paths | Medium | java | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.java) |
 | predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | base-7 | 504. Base 7 | Easy | java | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.java) |
+| binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
+| bitwise-and-of-numbers-range | Bitwise AND of Numbers Range | Medium | java | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.java) |
+| boats-to-save-people | Boats to Save People | Medium | java | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.java) |
+| check-if-array-is-sorted-and-rotated | Check if Array Is Sorted and Rotated | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./solutions/Easy/1752-check-if-array-is-sorted-and-rotated/solution.java) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | count-array-pairs-divisible-by-k | Count Array Pairs Divisible by K | Hard | java | [Problem](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Solution](./solutions/Hard/2183-count-array-pairs-divisible-by-k/solution.java) |
 | count-integers-with-even-digit-sum | Count Integers With Even Digit Sum | Easy | java | [Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Solution](./solutions/Easy/2180-count-integers-with-even-digit-sum/solution.java) |
 | count-negative-numbers-in-a-sorted-matrix | Count Negative Numbers in a Sorted Matrix | Easy | java | [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./solutions/Easy/1351-count-negative-numbers-in-a-sorted-matrix/solution.java) |
@@ -55,7 +55,6 @@
 | find-three-consecutive-integers-that-sum-to-a-given-number | Find Three Consecutive Integers That Sum to a Given Number | Medium | java | [Problem](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Solution](./solutions/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/solution.java) |
 | first-bad-version | First Bad Version | Easy | java | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.java) |
 | frequency-of-the-most-frequent-element | Frequency of the Most Frequent Element | Medium | java | [Problem](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](./solutions/Medium/1838-frequency-of-the-most-frequent-element/solution.java) |
-| goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
 | guess-number-higher-or-lower | Guess Number Higher or Lower | Easy | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.java) |
 | happy-number | Happy Number | Easy | java | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
@@ -64,6 +63,7 @@
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
 | intersection-of-two-arrays-ii | Intersection of Two Arrays II | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.java) |
 | invert-binary-tree | Invert Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./solutions/Easy/0226-invert-binary-tree/solution.java) |
+| is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | jump-game-vii | Jump Game VII | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.java) |
 | keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
@@ -132,6 +132,7 @@
 | prefix-and-suffix-search | 745. Prefix And Suffix Search | Hard | java | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.java) |
 | pyramid-transition-matrix | 756. Pyramid Transition Matrix | Medium | java | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.java) |
 | special-binary-string | 761. Special Binary String | Hard | java | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.java) |
+| goat-latin | 824. Goat Latin | Easy | java | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.java) |
 | count-unique-characters-of-all-substrings-of-a-given-string | 828. Count Unique Characters Of All Substrings Of A Given String | Hard | java | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.java) |
 | positions-of-large-groups | 830. Positions Of Large Groups | Easy | java | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.java) |
 | masking-personal-information | 831. Masking Personal Information | Medium | java | [Problem](https://leetcode.com/problems/masking-personal-information/) | [Solution](./solutions/Medium/0831-masking-personal-information/solution.java) |
